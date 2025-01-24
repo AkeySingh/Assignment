@@ -1,0 +1,37 @@
+How to Use 
+
+Enter a Keyword in the Search Bar
+
+In the top part of the app, you’ll see a Search bar.
+Type in a keyword related to the image you want to search (e.g., "nature," "city," "car").
+After typing the keyword, click the Search button.
+Click on an Image to Set It as the Canvas Background
+
+After clicking Search, a series of images related to your query will appear below the search bar.
+Browse through the images.
+Click on an image to set it as the background of the canvas.
+Use the Buttons to Manipulate the Canvas:
+
+Add Text:
+
+Click the Add Text button to add a text layer to the canvas.
+After clicking the button, a textbox with the default text "Editable Text" will appear on the canvas.
+Click on the text to edit its content.
+You can also drag and resize the text on the canvas.
+Add Shapes:
+
+You’ll find two buttons for adding shapes: Add Circle and Add Rectangle.
+Click on "Add Circle" to add a blue circle to the canvas.
+Click on "Add Rectangle" to add a green rectangle to the canvas.
+After adding a shape, you can drag, resize, and reposition it on the canvas.
+Download the Canvas:
+
+Once you’ve finished editing the canvas, click the Download Canvas button.
+This will generate an image of the current canvas, including the background image, text, and shapes.
+The image will be downloaded to your device as a PNG file.
+Key Interactions:
+Search Images: Type a keyword in the search bar and click Search.
+Set Background Image: Click on any image from the search results to set it as the background.
+Add and Edit Text: Click Add Text and edit the text on the canvas.
+Add and Move Shapes: Click Add Circle or Add Rectangle to add shapes and drag them around.
+Download the Canvas: After editing, click Download Canvas to save the image.

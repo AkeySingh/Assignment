@@ -8,14 +8,12 @@ const CanvasEditor = ({ imageUrl }) => {
 
   useEffect(() => {
     const fabricCanvas = new fabric.Canvas(canvasRef.current);
-    console.log(fabricCanvas);
     setCanvas(fabricCanvas);
     return () => fabricCanvas.dispose();
   }, []);
 
   useEffect(() => {
     if (canvas && imageUrl) {
-      console.log(canvas, " this", imageUrl);
       fabric.Image.fromURL(
         imageUrl,
         (img) => {
@@ -94,7 +92,7 @@ const CanvasEditor = ({ imageUrl }) => {
           justifyContent: "center",
         }}
       >
-        <canvas ref={canvasRef} width={800} height={600}></canvas>
+        <canvas ref={canvasRef} id="cavasRef" width={800} height={600}></canvas>
       </div>
 
       <div className="controls">
