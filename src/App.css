@@ -1,0 +1,87 @@
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.search-container {
+  margin: 20px auto;
+}
+
+.search-container input {
+  padding: 10px;
+  width: 300px;
+}
+
+.user-details {
+  display: block;
+  text-align: start;
+  width: 100%;
+  padding: 0px 20px;
+
+
+
+
+}
+
+
+
+.search-container button {
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+/* .image-results {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+} */
+
+.image-results div {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.image-results img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.canvas-editor {
+  position: relative;
+}
+
+canvas {
+  border: 1px solid #ddd;
+  margin-top: 20px;
+}
+
+.controls {
+  margin-top: 30px;
+}
+
+.controls button {
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.controls input {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  padding: 10px;
+}
+
+
+.grid-container>div {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
